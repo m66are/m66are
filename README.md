@@ -43,9 +43,9 @@
   <br>
 
   ## Recent Activity
+  ![Montassar's Recent Activity](https://github-readme-stats.vercel.app/api/wakatime?username=m66are&layout=compact&theme=radical)
 
-  [![Montassar's Recent Activity](https://github-readme-activity-graph.herokuapp.com/graph?username=m66are&bg_color=ffffff&color=000000&line=000000&point=0088FF&hide_border=true)](https://github.com/m66are)
-
+  
 
   <br>
 
