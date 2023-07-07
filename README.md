@@ -1,14 +1,10 @@
-<div align="center">
-  <img src="https://your-image-url.com/cool_image.png" alt="Header Image" width="800px">
-  
-  <br>
+<div align="left">
   
   # Hello, I'm Montassar 👋
 
   Flutter Developer | Backend Enthusiast
 
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/montassarezekri/)
-  
 
   <br>
   
@@ -20,23 +16,23 @@
 
   ## Tech Stack
 
-  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-  ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+  ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
   <br>
 
   ## GitHub Stats
 
-  ![Montassar's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+  [![Montassar's GitHub stats](https://github-readme-stats.vercel.app/api?username=m66are&show_icons=true&theme=radical)](https://github.com/m66are)
 
   <br>
 
   ## Let's Connect!
 
-  Feel free to connect with me on LinkedIn or visit my portfolio to explore more of my work. I'm always excited about new opportunities and collaborations!
+  Feel free to connect with me on LinkedIn to explore more of my work. I'm always excited about new opportunities and collaborations!
 
   🚀 Flutter Developer | 💡 Problem Solver | 🌟 Open-Source Enthusiast
 
