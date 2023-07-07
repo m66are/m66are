@@ -24,9 +24,21 @@
 
   <br>
 
-  ## Recent Activity
+  ## GitHub Stats
 
-  ![Montassar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m66are)
+  ![Montassar's GitHub stats](https://github-readme-stats.vercel.app/api?username=m66are&show_icons=true&theme=radical)
+
+  <br>
+
+  ## Contributions
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m66are&layout=compact&theme=radical)](https://github.com/montassarre)
+
+  <br>
+
+  ## Streak Stats
+
+  ![Montassar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m66are&theme=radical)
 
   <br>
 
