@@ -23,6 +23,11 @@
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
   <br>
+  ## Recent Activity
+
+  ![Montassar's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=m66are&bg_color=ffffff&color=000000&line=000000&point=0088FF)
+
+  <br>
 
   ## GitHub Stats
 
