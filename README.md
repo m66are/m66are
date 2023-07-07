@@ -44,7 +44,7 @@
 
   ## Recent Activity
 
-  ![Montassar's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=m66are&bg_color=ffffff&color=000000&line=000000&point=0088FF&custom_title=Montassar's%20GitHub%20Activity%20Graph%20(Last%207%20days))
+  [![Montassar's Recent Activity](https://github-readme-activity-graph.herokuapp.com/graph?username=m66are&bg_color=ffffff&color=000000&line=000000&point=0088FF&hide_border=true)](https://github.com/m66are)
 
   <br>
 
