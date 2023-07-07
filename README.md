@@ -24,15 +24,15 @@
 
   <br>
 
-  ## GitHub Stats
+  ## Recent Activity
 
-  [![Montassar's GitHub stats](https://github-readme-stats.vercel.app/api?username=m66are&show_icons=true&theme=radical)](https://github.com/m66are)
+  ![Montassar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m66are)
 
   <br>
 
   ## Let's Connect!
 
-  Feel free to connect with me on LinkedIn to explore more of my work. I'm always excited about new opportunities and collaborations!
+  Feel free to connect with me on LinkedIn or visit my portfolio to explore more of my work. I'm always excited about new opportunities and collaborations!
 
   🚀 Flutter Developer | 💡 Problem Solver | 🌟 Open-Source Enthusiast
 
