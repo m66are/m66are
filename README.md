@@ -43,7 +43,7 @@
   <br>
 
   ## Recent Activity
-  ![Montassar's Recent Activity](https://github-readme-stats.vercel.app/api/wakatime?username=m66are&layout=compact&theme=radical)
+  [![Montassar's Coding Activity](https://github-readme-wakatime.vercel.app/api?username=m66are&theme=radical)](https://wakatime.com/@m66are)
 
   
 
